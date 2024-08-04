@@ -11,11 +11,11 @@ A comprehensive platform that leverages AI to digitize and streamline patient he
 
 
 
-# [Watch it on youtube](https://youtu.be/gSpWPLMzYno?si=Ktf_vMZs5j8Td-8M)
+
 
 
 # News
-* 24/03/24 - The project has been deployed as fully functional website at [https://riian.pythonanywhere.com/] with Python Anywhere
+*  The project has been deployed as fully functional website at [https://riian.pythonanywhere.com/] with Python Anywhere
 
 # Main Page
  The Main Page of DjangoCare Platform has been displayed as follows,
@@ -49,7 +49,7 @@ For now, cite the [Open Science Framework paper](https://osf.io/pb4k2/?view_only
 Allows for manual data entry, with a text Indic mode that supports input in multiple languages, including Marathi, Tamil, and Hindi.
 
 ## Text Indic Mode
-The text Indic mode supports input in multiple languages, including Marathi, Tamil, and Hindi. This mode allows healthcare providers to input patient data in their preferred language, making the system more accessible and user-friendly.
+The text Indic mode supports input in multiple languages, including Marathi, Tamil,English, and Hindi. This mode allows healthcare providers to input patient data in their preferred language, making the system more accessible and user-friendly.
 
 ## Voice Mode
 The voice mode enables users to input data where the system read aloud the input fields through voice commands in English languages. This mode is ideal for healthcare providers who prefer to use voice commands or who have limited access to manual data entry or image recognition technology.
