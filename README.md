@@ -46,16 +46,16 @@ For now, cite the [Open Science Framework paper](https://osf.io/pb4k2/?view_only
 # Input Modes
 
 ## Text Mode:
-Allows for manual data entry, with a text Indic mode that supports input in multiple languages, including Marathi, Tamil, and Hindi.
+Allows for manual data entry, with a text Indic mode that supports input in English
 
 ## Text Indic Mode
-The text Indic mode supports input in multiple languages, including Marathi, Tamil,English, and Hindi. This mode allows healthcare providers to input patient data in their preferred language, making the system more accessible and user-friendly.
+The text Indic mode supports input in English . This mode allows healthcare providers to input patient data , making the system more accessible and user-friendly.
 
 ## Voice Mode
-The voice mode enables users to input data where the system read aloud the input fields through voice commands in English languages. This mode is ideal for healthcare providers who prefer to use voice commands or who have limited access to manual data entry or image recognition technology.
+The voice mode enables users to input data where the system read aloud the input fields through voice commands in English language. This mode is ideal for healthcare providers who prefer to use voice commands or who have limited access to manual data entry or image recognition technology.
 
 ## Voice Indic Mode
-The voice Indic feature reads aloud the input fields in Indic languages, providing better accessibility for healthcare providers who are visually impaired or have difficulty reading text.
+The voice Indic feature reads aloud the input fields in English language, providing better accessibility for healthcare providers who are visually impaired or have difficulty reading text.
 
 ## Image Mode: 
 Utilizes Optical Character Recognition (OCR) technology to extract data from images, making it easier to digitize physical records.
@@ -129,7 +129,7 @@ To use the Comprehensive Digital Health Record System, follow these steps:
 
 # Support and Contact
 
-If you have any questions, please feel free to contact me at [vasudevanswornampillai@gmail.com].
+If you have any questions, please feel free to contact me at [thandonogemane13@gmail.com].
 
 # License
 

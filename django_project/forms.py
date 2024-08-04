@@ -11,27 +11,13 @@ class HealthForm(forms.ModelForm):
         self.language = kwargs.pop('language', None)
         super().__init__(*args, **kwargs)
 
-        if self.language == 'hindi':
-            self.fields['patient_id'].label = _('रोगी आईडी')
-            self.fields['patient_name'].label = _('रोगी का नाम')
-            self.fields['age'].label = _('आयु')
-            self.fields['sex'].label = _('लिंग')
-            self.fields['reason_for_visit'].label = _('यात्रा का कारण')
-            self.fields['image'].label = _('छवि')
-        elif self.language == 'tamil':
-            self.fields['patient_id'].label = _('நோயாளி ஐடி')
-            self.fields['patient_name'].label = _('நோயாளி பெயர்')
-            self.fields['age'].label = _('வயது')
-            self.fields['sex'].label = _('பாலினம்')
-            self.fields['reason_for_visit'].label = _('வருகைக்கான காரணம்')
-            self.fields['image'].label = _('படம்')
-        elif self.language == 'marathi':
-            self.fields['patient_id'].label = _('रुग्ण_आयडी')
-            self.fields['patient_name'].label = _('रुग्णाचे_नाव')
-            self.fields['age'].label = _('वय')
-            self.fields['sex'].label = _('लिंग')
-            self.fields['reason_for_visit'].label = _('भेटीसाठी_कारण')
-            self.fields['image'].label = _('प्रतिमा')
+self.fields['patient_id'].label = _('Patient ID')
+self.fields['patient_name'].label = _('Patient Name')
+self.fields['age'].label = _('Age')
+self.fields['sex'].label = _('Sex')
+self.fields['reason_for_visit'].label = _('Reason for Visit')
+self.fields['image'].label = _('Image')
+
 
 
 
